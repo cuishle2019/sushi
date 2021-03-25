@@ -35,14 +35,14 @@ export const SUSHI: ChainTokenMap = {
   ),
   [ChainId.ROPSTEN]: new Token(
     ChainId.ROPSTEN,
-    '0x0769fd68dFb93167989C6f7254cd0D766Fb2841F',
+    '0x8384980305c13ac0423cfe3ac68fee3c78e2a877',
     18,
     'SUSHI',
     'SushiToken'
   ),
   [ChainId.RINKEBY]: new Token(
     ChainId.RINKEBY,
-    '0x0769fd68dFb93167989C6f7254cd0D766Fb2841F',
+    '0x8384980305c13ac0423cfe3ac68fee3c78e2a877',
     18,
     'SUSHI',
     'SushiToken'
